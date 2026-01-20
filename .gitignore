@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Model Files
+*.pth
+*.h5
+*.tflite
+
+# Temporary Uploads
+uploads/
